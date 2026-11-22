@@ -131,6 +131,12 @@ The API will be available at:
 
 `http://localhost:3000`
 
+### Build the project
+
+```bash
+npm run build
+```
+
 ### Run automated tests
 
 ```bash
